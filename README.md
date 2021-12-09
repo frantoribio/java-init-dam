@@ -1,4 +1,4 @@
-# JAVA Init DAM
+# JAVA Init DAM.
 Plantilla de Ejemplo para trabajar en JAVA enn los primeros temas
 
 [![Kotlin](https://img.shields.io/badge/Code-Java-blue)](https://www.java.com/es/)
